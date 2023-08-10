@@ -26,7 +26,7 @@
 
 @section('contenido2')
 
-	<h2 class="titulo">Puntos de interes</h2>
+	<h2 class="tituloLocales">Puntos de interes</h2>
             <div class="contenedor-sobre-nosotros">
                 <img src="img/centro.jpg" alt="" class="imagen-about-us-2">
                 <div class="contenido-textos">

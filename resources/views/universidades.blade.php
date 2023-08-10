@@ -31,7 +31,7 @@
       <p>
         Buscar una universidad de forma foránea puede ser una experiencia emocionante y enriquecedora. Al estudiar en una universidad en otro país, los estudiantes tienen la oportunidad de sumergirse en una nueva cultura, ampliar sus horizontes y desarrollar habilidades para la vida mientras obtienen una educación de calidad:
         <br><br><br>
-        <h3>"Explora el Mundo a través de la Educación: Busca tu Universidad Foránea"</h3>
+        <h4>"Explora el Mundo a través de la Educación: Busca tu Universidad Foránea"</h4>
         <br><br>
         ¿Te apasiona la idea de vivir una aventura educativa única? ¿Deseas descubrir nuevas culturas mientras te preparas para un futuro brillante? ¡Entonces buscar una universidad de forma foránea es la opción perfecta para ti!</p>
         <br><br>
